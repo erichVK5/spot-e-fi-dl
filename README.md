@@ -16,7 +16,7 @@ the range of the for loop and number of down arrow events will need to be
 modified depending on screen height and playlist length
 
 
-cropper-stitcher.sh
+screenshot-cropper-stitcher.sh
 
 this iterates over the screenshots, applying the necessary cropping window
 
